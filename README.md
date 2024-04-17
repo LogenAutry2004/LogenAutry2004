@@ -5,3 +5,5 @@
 👨🏻‍💻 I am currently the head of my Dev Team and Ceo of FUGUSecurity</br>
 💡 I'm learning SQL Databasing and Cloud Security</br>
 ⛰️ I enjoy weightlifting, scuba diving, hiking, and camping outside of my tech life</br>
+
+[![Logens's GitHub stats](https://github-readme-stats.vercel.app/api?username=LogenAutry2004)](https://github.com/anuraghazra/github-readme-stats)
