@@ -6,4 +6,4 @@
 💡 I'm learning SQL Databasing and Cloud Security</br>
 ⛰️ I enjoy weightlifting, scuba diving, hiking, and camping outside of my tech life</br>
 
-[![Logens's GitHub stats](https://github-readme-stats.vercel.app/api?username=LogenAutry2004&slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Logens's GitHub stats](https://github-readme-stats.vercel.app/api?username=LogenAutry2004&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
